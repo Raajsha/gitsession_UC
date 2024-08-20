@@ -1,1 +1,1 @@
-This is my git sessiongit add .
+This is my git session
